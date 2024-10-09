@@ -1,5 +1,4 @@
-### Problem Set 3
-## Writer: Marisa
+## Problem Set 3
 
 Problem 1 (5 pts):
 Write a script (or Jupyter Notebook code block) that opens the file, uses a for loop to read through the file line by line and, after finishing reading through the file, reports the highest water level and the date and time that was observed.
@@ -12,7 +11,10 @@ Write a script (or Jupyter Notebook) that calculates the fastest rise in water l
 
 Problem 4 (5 pts):
 Imagine that the file is providing live readings of the water level. Write a script (or Jupyter Notebook) to print a line of text with a warning if any of these events occur:
+
 -The water level increases more than 0.25 since the previous recording.
+
 -The water level is over 5.0.
+
 -No reading is received at a time point.
  
